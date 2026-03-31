@@ -46,14 +46,6 @@ I am a highly disciplined IT professional-in-training with a robust foundation i
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KASUZAZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASUZAZ&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 <p align="center">
   <a href="mailto:aizulhaziqq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
